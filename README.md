@@ -7,3 +7,7 @@ Demo script that uses [Parcel CSS](https://github.com/parcel-bundler/parcel-css)
 To build the `src/styles.css`, run `npm run build` or `node build.js`.
 
 The generated output (stylesheet + sourcemap) will be stored in the `build` folder.
+
+## License
+
+This project is released under the MIT public license. See the enclosed `LICENSE` for details.
