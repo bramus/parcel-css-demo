@@ -12,6 +12,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@parcel/css": "^1.0.2"
+    "@parcel/css": "^1.0.2",
+    "sane": "^5.0.1"
   }
 }
